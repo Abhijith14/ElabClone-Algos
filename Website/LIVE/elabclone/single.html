@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Syntax Highlighter</title>
+  <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/ace/1.2.8/ace.js"></script>
+  <style type="text/css">
+    #jseditor {
+        height: 200px;
+    }
+    div {
+    pointer-events: none;
+}
+  </style>
+</head>
+<body>
+  <div id="jseditor">
+  data = "hello";
+  print("HELLo")
+   </div>
+  <script type="text/javascript">
+    var e = ace.edit("jseditor");
+    e.getSession().setMode("ace/mode/python");
+    //e.setTheme("ace/theme/github");
+    //e.getSession().setTabSize(10);
+    //e.renderer.setShowGutter(false);
+  </script>
+</body>
+</html>
