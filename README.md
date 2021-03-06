@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/Abhijith14/SRMIST-REDESIGN/blob/master/readme_assets/logo.png" width="400" />
+  <img alt="Logo" src="https://github.com/Abhijith14/ElabClone-Algos/blob/master/readme_assets/logo.png" width="400" />
 </div>
 <h1 align="center">
   SRM Institute of Science and Technology
@@ -13,7 +13,7 @@
   _**Python Elab**_ : [Abhijith14/PythonElab](https://github.com/Abhijith14/PythonElab)  
   _**Java Elab**_   : [Abhijith14/JavaElab](https://github.com/Abhijith14/JavaElab)
 
-![demo](https://github.com/Abhijith14/elabclone.herokuapp.com/blob/master/readme_assets/index.png)
+![demo](https://github.com/Abhijith14/ElabClone-Algos/blob/master/readme_assets/index.png)
 
 ## 🚨 Forking this repo (please read!)
 
@@ -24,4 +24,4 @@ I value keeping my site open source, but as you all know, _**plagiarism is bad**
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/SRMIST-REDESIGN](https://github.com/Abhijith14/SRMIST-REDESIGN). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/ElabClone-Algos](https://github.com/Abhijith14/ElabClone-Algos). Thanks!
