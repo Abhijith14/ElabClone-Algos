@@ -11,7 +11,7 @@
   Java   : [Abhijith14/JavaElab](https://github.com/Abhijith14/JavaElab)
 </p>
 
-![demo](https://github.com/Abhijith14/elabclone.herokuapp.com/blob/master/readme_assets/index.gif)
+![demo](https://github.com/Abhijith14/elabclone.herokuapp.com/blob/master/readme_assets/index.png)
 
 ## 🚨 Forking this repo (please read!)
 
