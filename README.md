@@ -10,9 +10,8 @@
 
 ## 🕷 Find code in repos:
 
-  _**Find code in repos:**_
-  Python : [Abhijith14/PythonElab](https://github.com/Abhijith14/PythonElab),
-  Java   : [Abhijith14/JavaElab](https://github.com/Abhijith14/JavaElab)
+  _**Python**_ : [Abhijith14/PythonElab](https://github.com/Abhijith14/PythonElab),  
+  _**Java**_   : [Abhijith14/JavaElab](https://github.com/Abhijith14/JavaElab)
 
 ![demo](https://github.com/Abhijith14/elabclone.herokuapp.com/blob/master/readme_assets/index.png)
 
