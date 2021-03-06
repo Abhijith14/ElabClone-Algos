@@ -6,12 +6,13 @@
 </h1>
 <p align="center">
   Elab Solutions for <a href="http://elabclone.herokuapp.com/" target="_blank">Python, C, C++, OOPS and Java algos</a>.
+  
   _**Find code in repos:**_
   Python : [Abhijith14/PythonElab](https://github.com/Abhijith14/PythonElab),
   Java   : [Abhijith14/JavaElab](https://github.com/Abhijith14/JavaElab)
 </p>
 
-![demo](https://github.com/Abhijith14/elabclone.herokuapp.com/blob/master/readme_assets/index.gif)
+![demo](https://github.com/Abhijith14/elabclone.herokuapp.com/blob/master/readme_assets/index.png)
 
 ## 🚨 Forking this repo (please read!)
 
