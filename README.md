@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://github.com/Abhijith14/ElabClone-Algos/blob/master/readme_assets/logo.png" width="400" />
 </div>
 <h1 align="center">
-  SRM Institute of Science and Technology
+  Elab Algos
 </h1>
 <p align="center">
   Elab Solutions for <a href="http://elabclone.herokuapp.com/" target="_blank">Python, C, C++, OOPS and Java algos</a>.
