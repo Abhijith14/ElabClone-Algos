@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/Abhijith14/ElabClone-Algos/blob/master/readme_assets/logo.png" width="400" />
+  <img alt="Logo" src="https://github.com/Abhijith14/ElabClone-Algos/blob/master/readme_assets/demo.png" width="400" />
 </div>
 <h1 align="center">
   Elab Algos
@@ -13,7 +13,7 @@
   _**Python Elab**_ : [Abhijith14/PythonElab](https://github.com/Abhijith14/PythonElab)  
   _**Java Elab**_   : [Abhijith14/JavaElab](https://github.com/Abhijith14/JavaElab)
 
-![demo](https://github.com/Abhijith14/ElabClone-Algos/blob/master/readme_assets/index.png)
+![demo](https://github.com/Abhijith14/ElabClone-Algos/blob/master/readme_assets/logo.png)
 
 ## 🚨 Forking this repo (please read!)
 
